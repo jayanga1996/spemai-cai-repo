@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './../styles/SendMessageForm.css'; // Import CSS
-import send from "../assets/Frame 5172.png";
+// import send from "../assets/Frame 5172.png";
 
 const SendMessageForm = ({ sendMessage }) => {
   const [message, setMessage] = useState('');
