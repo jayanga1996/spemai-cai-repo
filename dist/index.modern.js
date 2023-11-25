@@ -1,2 +1,2 @@
-import"react";var t=function(t){return h("div",{className:"_1m8-E"},"Example Component: ",t.text)},e=function(t){var e=t.str;return e.charAt(0).toUpperCase()+e.slice(1)},r=function(t){return h("div",null,"Hello,This is SpemaiCai")};export{e as Capitalize,t as ExampleComponent,r as SpemaiCai};
+import"react";var n=function(n){return h("div",{className:"_1m8-E"},"Example Component: ",n.text)},e=function(n){return h("div",null,"How can i help you")},t=function(n){return h("div",null,"Hello nice to meet you")};export{e as Capitalize,n as ExampleComponent,t as SpemaiSDK};
 //# sourceMappingURL=index.modern.js.map

@@ -12,3 +12,8 @@ export const Capitalize = ({ str }) => {
     How can i help you
   </div>
 }
+export const SpemaiSDK = ({ str }) => {
+  return <div>
+    Hello nice to meet you
+  </div>
+}
