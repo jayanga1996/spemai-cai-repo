@@ -8,8 +8,5 @@ export const ExampleComponent = ({ text }) => {
   return <div className={styles.test}>Example Component: {text}</div>
 }
 export const Capitalize = ({ str }) => {
-  return <div>
-    How can i help you
-  </div>
+  return str.charAt(0).toUpperCase() + str.slice(1)
 }
-
