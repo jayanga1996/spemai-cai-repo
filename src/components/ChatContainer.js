@@ -34,11 +34,11 @@ const ChatContainer = () => {
       <div className="chat-container-head">
         <div className="chat-topic-text">
           <span>
-            <img src={arrow_left} width={24} height={24}></img>
+            {/* <img src={arrow_left} width={24} height={24}></img> */}
           </span>
           Personals loan policy 2023
         </div>
-        <img src={full_exit} width={24} height={24}></img>
+        {/* <img src={full_exit} width={24} height={24}></img> */}
       </div>
       <div className="chat-container-body">
         <MessageList messages={messages} currentUser={currentUser} />

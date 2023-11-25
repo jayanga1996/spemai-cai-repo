@@ -22,7 +22,7 @@ const SendMessageForm = ({ sendMessage }) => {
         onChange={(e) => setMessage(e.target.value)}
       />
       <button type="submit">
-        <img src={send} width={31} height={31}></img>
+        {/* <img src={send} width={31} height={31}></img> */}
       </button>
     </form>
   );
