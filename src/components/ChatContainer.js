@@ -3,8 +3,8 @@ import MessageList from "./MessageList";
 import SendMessageForm from "./SendMessageForm";
 import "./../styles/ChatContainer.css"; // Import CSS
 
-// import full_exit from "../assets/fullscreen-exit-fill.png";
-// import arrow_left from "../assets/arrow-left-s-line.png";
+import full_exit from "../assets/fullscreen-exit-fill.png";
+import arrow_left from "../assets/arrow-left-s-line.png";
 
 const ChatContainer = () => {
   const [messages, setMessages] = useState([]);
