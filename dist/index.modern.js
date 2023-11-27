@@ -1,2 +1,2 @@
-import"react";var t=function(t){return h("div",{className:"_1m8-E"},"Example Component: ",t.text)},r=function(t){var r=t.str;return r.charAt(0).toUpperCase()+r.slice(1)};export{r as Capitalize,t as ExampleComponent};
+import"react";var r=function(r){var t=r.str;return t.charAt(0).toUpperCase()+t.slice(1)};export{r as Capitalize};
 //# sourceMappingURL=index.modern.js.map
