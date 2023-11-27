@@ -1,2 +1,2 @@
-require("react"),exports.Capitalize=function(r){var e=r.str;return e.charAt(0).toUpperCase()+e.slice(1)};
+require("react"),exports.Capitalize=function(t){return h("div",null,h("button",null,"Submit ",{str:t.str}))};
 //# sourceMappingURL=index.js.map
