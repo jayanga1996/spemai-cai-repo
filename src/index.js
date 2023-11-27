@@ -5,5 +5,7 @@ import styles from './styles.module.css'
 // import chat_close_icon from '../src/assets/Group 3178.png'
 
 export const Capitalize = ({ str }) => {
-  return str.charAt(0).toUpperCase() + str.slice(1)
+  return <div>
+    <button>Submit</button>
+  </div>
 }
