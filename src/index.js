@@ -6,6 +6,6 @@ import styles from './styles.module.css'
 
 export const Capitalize = ({ str }) => {
   return <div>
-    <button>Submit</button>
+    <button>Submit {{str}}</button>
   </div>
 }
